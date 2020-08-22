@@ -1,0 +1,19 @@
+
+.modalheader{
+    background-color: brown;
+    color: cornsilk;
+}
+.modalfield{
+    display: flex;
+}
+.modallable{
+    padding-right: 5px;
+}
+.calander{
+    background-color: darkgoldenrod;
+    display: flex;
+    max-width: 500px;
+    max-height: 300px;
+    overflow: scroll;
+    justify-content: center;
+}
