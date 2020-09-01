@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React-slot-bookingApp/static/css/main.6ca82ca7.chunk.css",
+    "main.js": "/React-slot-bookingApp/static/js/main.5b133079.chunk.js",
+    "main.js.map": "/React-slot-bookingApp/static/js/main.5b133079.chunk.js.map",
+    "runtime-main.js": "/React-slot-bookingApp/static/js/runtime-main.ec8e5b35.js",
+    "runtime-main.js.map": "/React-slot-bookingApp/static/js/runtime-main.ec8e5b35.js.map",
+    "static/css/2.11829350.chunk.css": "/React-slot-bookingApp/static/css/2.11829350.chunk.css",
+    "static/js/2.eaf11853.chunk.js": "/React-slot-bookingApp/static/js/2.eaf11853.chunk.js",
+    "static/js/2.eaf11853.chunk.js.map": "/React-slot-bookingApp/static/js/2.eaf11853.chunk.js.map",
+    "index.html": "/React-slot-bookingApp/index.html",
+    "precache-manifest.b0751bb7b564bf3504765c6aad687565.js": "/React-slot-bookingApp/precache-manifest.b0751bb7b564bf3504765c6aad687565.js",
+    "service-worker.js": "/React-slot-bookingApp/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/React-slot-bookingApp/static/css/2.11829350.chunk.css.map",
+    "static/css/main.6ca82ca7.chunk.css.map": "/React-slot-bookingApp/static/css/main.6ca82ca7.chunk.css.map",
+    "static/js/2.eaf11853.chunk.js.LICENSE.txt": "/React-slot-bookingApp/static/js/2.eaf11853.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec8e5b35.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.eaf11853.chunk.js",
+    "static/css/main.6ca82ca7.chunk.css",
+    "static/js/main.5b133079.chunk.js"
+  ]
+}
