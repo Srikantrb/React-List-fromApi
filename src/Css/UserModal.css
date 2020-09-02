@@ -9,11 +9,18 @@
 .modallable{
     padding-right: 5px;
 }
-.calander{
+/* .calander{
     background-color: darkgoldenrod;
     display: flex;
     max-width: 500px;
     max-height: 300px;
     overflow: scroll;
     justify-content: center;
+} */
+.input-container{
+    display: flex;
+}
+.input{
+    flex: 1;
+    width: 30px;
 }

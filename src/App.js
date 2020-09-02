@@ -4,6 +4,7 @@ import User from './Components/User';
 import axios from 'axios'
 import fire from './Components/FirebaseAuth/Fireconfig';
 import Login from './Components/FirebaseAuth/Login';
+// import FirebaseTesting from './Components/firebase/FirebaseTesting';
 
 
 function App() {
@@ -60,9 +61,10 @@ function App() {
   
   return (
     <div className="App">
+      {/* <FirebaseTesting></FirebaseTesting> */}
       <div className = "auth-buttons">
         {user ? (<button onClick = {logoutHandler }>LogOut</button>) : null}
-
+        {/* {user ? (<firebaseTesting></firebaseTesting>) : null} */}
       </div>
       <div>
         {user ? 
